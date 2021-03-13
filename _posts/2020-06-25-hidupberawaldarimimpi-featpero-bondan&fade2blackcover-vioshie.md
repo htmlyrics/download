@@ -1,7 +1,5 @@
 ---
-layout: post
-author: HTMLyrics
-title: Hidup Berawal Dari Mimpi (feat. Pero) (Bondan & Fade2Black Cover) - Vioshie
+layout: default
 ---
 
 <br />
