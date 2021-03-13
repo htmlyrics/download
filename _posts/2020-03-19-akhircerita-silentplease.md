@@ -1,7 +1,5 @@
 ---
-layout: post
-author: HTMLyrics
-title: Akhir Cerita - Silent Please
+layout: default
 ---
 
 <br />
