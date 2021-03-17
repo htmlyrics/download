@@ -6,9 +6,9 @@
 <body>
 
     {%- include header.html -%}
-
+    
     <main class="page-content" aria-label="Content">
-        <center><div class="link-cont"><div class="link-wrapper"><a class="link hover-link" href="https://onanion.blogspot.com/2019/09/blog-post.html"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back To Article</a></div></div></center><br />
+        <center><div class="link-cont"><div class="link-wrapper"><a class="link hover-link" href="{{ post.url | relative_url }}"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Back</a></div></div></center>
         <div class="wrapper">
             {{ content }}
         </div>
